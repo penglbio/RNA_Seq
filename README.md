@@ -11,7 +11,7 @@ mkdir ~/Project/${GROUP}_${DATE}
 ### 2. Clone the repository
 ```
 cd ~/Project/${GROUP}_${DATE}
-git clone https://github.com/bioxfu/RNA-Seq
+git clone https://github.com/penglbio/RNA-Seq
 cd RNA-Seq
 ```
 
